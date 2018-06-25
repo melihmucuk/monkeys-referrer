@@ -104,6 +104,7 @@ mreferrer.referrer.parse(url, referrer, function (err, description) {
 * [Instagram](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/instagram.js)
 * [Twitter](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/twitter.js)
 * [Medium](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/medium.js)
+* [Youtube](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/youtube.js)
 * [Google+](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/googlePlus.js)
 * [Pinterest](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/pinterest.js)
 * [LinkedIn](https://github.com/melihmucuk/monkeys-referrer/tree/master/lib/matchers/social/linkedin.js)
