@@ -175,12 +175,6 @@ mreferrer.shorten.url('http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way
 
 ## Contribute
 
-### Contributors
-+ [@ivolo](https://github.com/ivolo)
-+ [@asolove](https://github.com/asolove)
-+ [@xissy](https://github.com/xissy)
-+ [@rybnik](https://github.com/rybnik)
-
 ### Matchers
 Matchers help identify and attach more semantic information to referral sources. We'd your help on adding the hundreds of social, search, ad, and other referral sources not matched yet by monkeys-referrer.
 
